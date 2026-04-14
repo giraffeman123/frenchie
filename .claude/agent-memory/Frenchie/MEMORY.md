@@ -1,0 +1,3 @@
+- [Learner Profile](learner_profile.md) — CEFR B1, 15 exercises completed, themes/strengths/writing voice
+- [Skill Gap Log](skill_gap_log.md) — Recurring errors with quotes from exercises: tense, gender, pronouns, POV
+- [Vocabulary Tracker](vocabulary_tracker.md) — Target word usage: correct, incorrect, and never attempted

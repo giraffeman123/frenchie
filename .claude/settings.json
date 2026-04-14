@@ -1,0 +1,16 @@
+{  
+  "model": "claude-sonnet-4-6",
+  "permissions": {
+    "allow": [
+      "Read(./vocabulary.txt)",
+      "Read(./.claude/rules/*.md)",
+      "Read(./CLAUDE.md)",
+      "Read(./exercises/**)",
+      "Write(./exercises/**)"
+    ]
+  },
+  "env": {
+    "DEFAULT_AGENT": "frenchie",
+    "CLAUDE_PROJECT_NAME": "French-Language-Coach"
+  }
+}
